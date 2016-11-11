@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ReportApp</string>
+    <string name="report_title_hint">Enter a Title</string>
+    <string name="report_title_label">Title</string>
+    <string name="report_detail_label">Detail</string>
+    <string name="report_resolved_label">Resolved</string>
+    <string name="date_picker_title">Date of Report</string>
+    <string name="new_report">New Report</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s reports</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
